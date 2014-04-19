@@ -1832,4 +1832,7 @@
     <string name="no_apps_selected">No apps selected</string>
     <!-- Displayed as a toast in ManageBackupsActivity if a restore/delete is requested, but no backup selected -->
     <string name="no_backups_selected">No backups selected</string>
+
+    <string name="bluetooth_accept_all_files">Accept all file types</string>
+
 </resources>
