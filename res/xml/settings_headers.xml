@@ -88,6 +88,7 @@
                 android:action="com.cyanogenmod.action.LAUNCH_DEVICE_SETTINGS"
                 android:targetPackage="com.cyanogenmod.settings.device"
                 android:targetClass="com.cyanogenmod.settings.device.DeviceSettings" />
+                <bool name="has_advanced_settings">false</bool>
     </header>
 
     <!-- INTERFACE -->
